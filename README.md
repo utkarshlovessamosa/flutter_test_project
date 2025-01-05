@@ -19,16 +19,3 @@ Before you begin, ensure you have the following installed:
 - A supported editor like **VS Code** or **Android Studio**
 - An emulator or physical device to run the app
 
-## Major Components 
-two-screen-flutter-app/
-│
-├── lib/screens/home
-│   ├── main.dart               # Entry point for the app
-│   ├── home_screen.dart        # Home screen widget
-│   └── home_filter_dialog.dart # Filter Bottomsheet to modify home screen listview
-    └── details.dart            # Details screen for listview items
-
-│
-├── pubspec.yaml          # Project dependencies and settings
-└── README.md             # Project documentation (you are here!)
-
